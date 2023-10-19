@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ashlyn5
+- 👀 I’m interested in research.
+- 🌱 I’m currently learning javascript and R.
+- 💞️ I’m looking to collaborate ...
+- 📫 How to reach me email/text/whatsApp.
